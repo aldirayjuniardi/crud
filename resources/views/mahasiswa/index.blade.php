@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Data Mahasiswa</title>
+    <title>Silahkan Melakukan login</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
   </head>
   <body class="bg-light">
@@ -66,7 +66,7 @@
                         <tr>
                             <td>1</td>
                             <td>23110526</td>
-                            <td>aldiray</td>
+                            <td>ALDIRAY JUNIARDI</td>
                             <td>sistem infotmatika</td>
                             <td>
                                 <a href='' class="btn btn-warning btn-sm">Edit</a>

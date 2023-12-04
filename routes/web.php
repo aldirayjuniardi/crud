@@ -21,3 +21,7 @@ Route::get('/', function () {
 Route::get('/mahasiswa', function () {
     return view('mahasiswa.index');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
